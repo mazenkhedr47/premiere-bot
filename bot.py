@@ -8,7 +8,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN")
 CHAT_ID = os.environ.get("CHAT_ID")
 
 URL = "https://www.premiere-cinemas.com/en"
-MOVIE_KEYWORDS = ["doomsday", "dooms day"]
+MOVIE_KEYWORDS = ["The odyssey", "Odyssey"]
 CINEMA_KEYWORDS = ["plaza", "americana"]
 
 
