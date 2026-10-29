@@ -96,4 +96,5 @@ def check_premiere_tickets():
 
 
 if __name__ == "__main__":
+  send_telegram_alert("تجربة: البوت مربوط بتليجرام تمام وبيراقب الموقع ✅")
   check_premiere_tickets()
